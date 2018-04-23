@@ -1,3 +1,4 @@
+from notebook import transutils
 from notebook.services.contents.filemanager import FileContentsManager
 from traitlets import Any
 
